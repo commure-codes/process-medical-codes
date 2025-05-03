@@ -1,0 +1,12 @@
+fastapi>=0.95.0,<0.111.0
+uvicorn[standard]>=0.20.0,<0.28.0
+python-multipart>=0.0.5,<0.0.9
+pandas>=1.5.0,<2.3.0
+openpyxl>=3.0.0,<3.2.0
+# Update to reflect newer Pinecone client version
+pinecone-client>=3.0.0,<4.0.0
+# Update google-cloud-aiplatform version and add [vertexai] extra
+google-cloud-aiplatform[vertexai]>=1.26.0,<1.50.0
+python-dotenv>=0.20.0,<1.1.0
+google-api-python-client
+protobuf>=3.20.0,<5.0.0

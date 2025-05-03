@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "silicon-works-449817-n7",
+  "private_key_id": "53132c29331d370ca022fb2e9cca8945cd6396c7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD3kp1MlryfquH4\n5EyH6x6oLQMWLCmdvC9b1QpTBk4RLOl3L3cacZiz0auBo5CFnqPZrNSxmHKAbSmP\n5OdagLart2mRvuTBdRHjGFFoMa5hJV5iudIclOeyn+jKkKULiu2/2l8xDwa6oeNo\nm5zEJq/g7s3905W7Q7CtYixXaW/7jtERrgASNc6MCfFzJAZSTIOnimafd2N1dQs5\n7m6mPg98ayYW6aEXYFIA/8g5jcNtedVgGK1/REgvFM2qJpv7T1nigVQhgbBu6+DY\nhAyNzGVrmUx65cblt8JnX89PRUWivlEXKWXkHyNl9mzS18aUR7hOEAY1GjLQle0z\nWUbeL4XxAgMBAAECggEAPJg5gNvqCehwy5LROnktNTtjJIOlofJD4yWnE8AYznJg\nKChJbgL8vZJleGL4xgOYlfgLzPYDnHRbdlkv2QJk821+XMpMwh7txFgY4Lg8NpHH\nYsGZcB5wAVPLTf0OMF+OJmWD5AWJ/5cNCnb/7TCM3rCEYYpufPmp3h4HvVNUscx9\nGdw32ko/1xkWIe/+Nkc5DnjVKmpwPh5JovHzxe0bObRreMdYLp8WvST/W18Zp8LS\nBKz7h6mkMw5EjVdfp+ohldMzP/uIjeXPulf2eEmFImPBddFPvSWhx6miSjqjxtf1\nRalaJsZQQJwFTCyWMiFYXsiY1rLtwyFFndI7ncCkkwKBgQD7xrmQuYe/hoiK6kxz\n5sQcbY7RUUgmkRJ6fjgb2Tm9eeJwqkCRfuumEnTYD+g3Uxp9OtRx4zB5O8ekZTyk\nroDcbgjI0p/YBEWaa0IJj4VNJ5vuICdWGJnHfkSFTYswH6riuqgSQYgicR8QsXUY\nNUNp29Q3dU5pQyFjJA37YmQE7wKBgQD7udZIqw3ELm9e13UC08IPV4KA5afLToYc\nfumlYsB1LAK9sDhnGDdNGqa7VJxQcLTPvzRyDbT+nlthJmZ9qMkCCDZbxwumpc5Q\n1Hk6Fv3HEpKTyTpXk+dsYvm6D7FSdkXGGOwZc84KPPdgVzP+TzE1cYYhKOz3y2js\nvIm61X3jHwKBgQCcSymogLOXHkGm0nlxPWCiMRSGNcnvPwFUjwPvrbJdP8tkmxuH\n9lz8c9qawY0qwujfsmRs6laN+6EcGUhDBpyxuZC0caOOamB20nxlCPX8BkmS0dz5\nYj4cC/MnORLdZdsj8jEhXBLRJp3dM/v3ciEOFsuvPZ/WUjjonVocomBqewKBgH2w\nLcl891O0Z9FwPTGbMDNe23+mq+B8pcQGrnzw0O3werHiElePpNUv8H5q4d3cWLu+\nWd5076GOyku408X8h9km5pVuzmd4NIrxfFI/9pj2sg9uk131MMFSriRz/3MQMQiX\nmxOeWguMo2wMPp7FRenMdE+MUr3rZ8mE3jRWsxO7AoGAPvELFC5kowf0fzAYIIgN\n0KbkAktVU4Tp8Cu6gDRIgstQhWfAS7yZoR/d8fX5AT8zV6GxpCEgXpb3qsWNvMQW\nDPmEvC1CJqlJAbe2dSdn89BRGzzcOt9Om3EqupyQ/TLKxaXKMMcC17jTzPVDwOsM\nJjLKVbBLSpMxymqSV9VSCdk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vertex-ai@silicon-works-449817-n7.iam.gserviceaccount.com",
+  "client_id": "118226878266016658963",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-ai%40silicon-works-449817-n7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
